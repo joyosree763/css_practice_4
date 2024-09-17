@@ -1,0 +1,21 @@
+div {
+  border: 2px solid black;
+  width: 100px;
+  height: 100px;
+
+  background-color: olive;
+}
+
+#box {
+  background-color: chocolate;
+}
+
+.box {
+  background-color: ; blueviolet;
+}
+
+div {
+  background-color: red !important;
+}
+
+/* tag > class > id > important */

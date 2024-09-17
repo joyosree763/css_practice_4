@@ -1,0 +1,14 @@
+div,
+section,
+footer {
+  border: 2px solid black;
+  display: inline;
+}
+
+span {
+  border: 2px solid black;
+  /* display: block; */
+
+  display: none;
+  /* visibility: hidden; */
+}

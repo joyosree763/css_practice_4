@@ -1,0 +1,12 @@
+section {
+  width: 100%;
+  height: 100vh;
+}
+
+nav {
+  background-color: blueviolet;
+  color: white;
+
+  position: sticky;
+  top: 0;
+}

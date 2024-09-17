@@ -1,0 +1,24 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: green;
+  color: white;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+section {
+  border: 1px solid red;
+  height: 100vh;
+}
+
+section:first-of-type {
+  margin-top: 28px;
+}
